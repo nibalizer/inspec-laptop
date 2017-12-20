@@ -1,0 +1,10 @@
+name: mysec 
+title: Basic security
+maintainer: Spencer Krum
+copyright: Spencer Krum
+copyright_email: nibz@spencerkrum.com
+license: Apache-2.0
+summary: Verify that basic security is met
+version: 1.0.0
+supports:
+  - os-family: linux
